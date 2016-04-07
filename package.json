@@ -1,0 +1,21 @@
+{
+  "name": "ngot",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "ngot": "bin/ngot"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngot/ngot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngot/ngot/issues"
+  },
+  "homepage": "https://github.com/ngot/ngot#readme"
+}
