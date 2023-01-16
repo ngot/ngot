@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-
-git config user.name 'ngot'
-git config user.email 'zhuanghengfei@gmail.com'
-echo "set user.name & user.email ok"
